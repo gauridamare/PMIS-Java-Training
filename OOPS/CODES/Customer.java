@@ -1,4 +1,4 @@
-package PMIS-Java-Training.OOPS.CODES;
+package OOPS.CODES;
 
 import java.util.ArrayList;
 import java.util.List;
