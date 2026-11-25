@@ -1,12 +1,21 @@
+// Print
+// *****
+// *****
+// *****
+// *****
+// *****
 package Java_Day_02;
 
 public class Code01 {
     public static void main(String[] args) {
-        int a = 10;
-        int b = 9;
 
-        int c = a + b;
+        for (int i = 1; i <= 5; i++) {
 
-        System.out.println("Sum of a and b is : " + c);
+            for (int j = 1; j <= 5; j++) {
+                System.out.print("*");
+            }
+
+            System.out.println();
+        }
     }
 }
